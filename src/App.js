@@ -12,6 +12,9 @@ function App() {
         <p>
           Added by Maks v15!
         </p>
+        <p>
+          Added as "feature"!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
